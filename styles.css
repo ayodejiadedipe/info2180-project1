@@ -21,14 +21,16 @@ header .container{
 
 h1{
     float: left;
-    padding-right: 10px;
+    padding-right: 100px;
+    padding-top: 30px;
+    font-size: 18px;
 }
 
 ul{
     float: right;
     list-style-type: none;
     padding-top: 20px;
-    padding-left: 200px;
+    padding-left: 250px;
 }
 
 li{
